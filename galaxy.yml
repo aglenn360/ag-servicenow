@@ -1,7 +1,6 @@
 ---
 namespace: agservicenow
 name: agservicenow
-version: test
 readme: README.md
 authors:
 - "Paul Knight <paul.knight@delaware.gov>"
@@ -16,18 +15,6 @@ description: >
     supplied query.
     ServiceNow Inventory Plugin for using ServiceNow CMDB as a dynamic 
     inventory source.
-build_ignore:
-- galaxy.yml.j2
-- release.yml
-license:
-- "GPL-3.0-or-later"
-tags:
-- preview
-- servicenow
-- snow
-- collection
-- inventory
-- plugin
 repository: https://github.com/aglenn360/agservicenow.agservicenow.git
 documentation: https://github.com/aglenn360/agservicenow.agservicenow.git/wiki
 homepage: https://github.com/aglenn360/agservicenow.agservicenow.git
