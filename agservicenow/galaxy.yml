@@ -1,6 +1,6 @@
 ---
-namespace: ag-servicenow
-name: ag-servicenow
+namespace: agservicenow
+name: agservicenow
 version: test
 readme: README.md
 authors:
@@ -28,7 +28,7 @@ tags:
 - collection
 - inventory
 - plugin
-repository: https://github.com/aglenn360/ag-servicenow.git
-documentation: https://github.com/aglenn360/ag-servicenow.git/wiki
-homepage: https://github.com/aglenn360/ag-servicenow.git
-issues: https://github.com/aglenn360/ag-servicenow.git/issues
+repository: https://github.com/aglenn360/agservicenow.git
+documentation: https://github.com/aglenn360/agservicenow.git/wiki
+homepage: https://github.com/aglenn360/agservicenow.git
+issues: https://github.com/aglenn360/agservicenow.git/issues
